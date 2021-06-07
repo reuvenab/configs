@@ -1,2 +1,2 @@
 # configs
-Configuration for different tools I'm using
+Configuration for the different tools I'm using
